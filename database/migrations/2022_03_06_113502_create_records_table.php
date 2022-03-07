@@ -16,7 +16,7 @@ return new class extends Migration
         Schema::create('records', function (Blueprint $table) {
             $table->id();
             $table->string('title');
-            $table->string('image',50);
+            $table->string('user_name');
             $table->json('full_respone');
             $table->timestamps();
         });
