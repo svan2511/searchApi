@@ -1,25 +1,16 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'f8183b85d294f874ccea87b3e0174d33ae4d846e',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
   array (
-    'barryvdh/laravel-dompdf' => 
-    array (
-      'pretty_version' => 'v1.0.0',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'e3f429e97087b2ef19b83e5ed313f080f2477685',
-    ),
     'brick/math' => 
     array (
       'pretty_version' => '0.9.3',
@@ -78,15 +69,6 @@
       array (
       ),
       'reference' => 'c268e882d4dbdd85e36e4ad69e02dc284f89d229',
-    ),
-    'dompdf/dompdf' => 
-    array (
-      'pretty_version' => 'v1.2.0',
-      'version' => '1.2.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '60b704331479a69e9bcdb3496da2315b5c4f94fd',
     ),
     'dragonmantank/cron-expression' => 
     array (
@@ -429,12 +411,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'f8183b85d294f874ccea87b3e0174d33ae4d846e',
     ),
     'laravel/sail' => 
     array (
@@ -604,24 +586,6 @@
       array (
       ),
       'reference' => '4f7fd7836c6f332bb2933569e566a0d6c4cbed74',
-    ),
-    'phenx/php-font-lib' => 
-    array (
-      'pretty_version' => '0.5.4',
-      'version' => '0.5.4.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'dd448ad1ce34c63d09baccd05415e361300c35b4',
-    ),
-    'phenx/php-svg-lib' => 
-    array (
-      'pretty_version' => '0.4.0',
-      'version' => '0.4.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '3ffbbb037f0871c3a819e90cff8b36dd7e656189',
     ),
     'phpdocumentor/reflection-common' => 
     array (
@@ -877,15 +841,6 @@
       array (
         0 => '4.2.3',
       ),
-    ),
-    'sabberworm/php-css-parser' => 
-    array (
-      'pretty_version' => '8.4.0',
-      'version' => '8.4.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'e41d2140031d533348b2192a83f02d8dd8a71d30',
     ),
     'sebastian/cli-parser' => 
     array (
